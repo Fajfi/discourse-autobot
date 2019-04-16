@@ -4,9 +4,9 @@
 # authors: Vinoth Kannan (@vinothkannans)
 # url: https://github.com/vinkashq/discourse-autobot
 
-gem 'yt-support', '0.1.3'
-gem 'yt', '0.32.3'
-gem 'simple-rss', '1.3.3'
+gem "yt-support", "0.1.3"
+gem "yt", "0.32.3"
+gem "simple-rss", "1.3.3"
 
 enabled_site_setting :autobot_enabled
 
